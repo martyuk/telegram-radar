@@ -451,6 +451,20 @@ This ensures idempotency and avoids unnecessary API calls.
 
 **Critical rule: continuous numbering.** Item numbers must be sequential across the entire brief, starting from 1 and never resetting between sections or geography splits. This lets the user reference items by number (e.g. "2, 8, 15, 17") for follow-up tasks like reel script writing.
 
+**Delivery rule: short summary in chat.** After generating the full brief and pushing it to GitHub, send the user a short chat summary (top 5–10 items with their numbers), not the full report. Include the GitHub link to the full report. Format:
+
+```markdown
+📊 Brief за YYYY-MM-DD — N пунктов
+
+🇷🇺 1. [Title] | 👁 ~N
+   2. [Title] | 👁 ~N
+   ...
+🌍 18. [Title] | 👁 ~N
+   ...
+
+📄 Полный отчёт: [GitHub link]
+```
+
 ## Output Format
 
 For channel discovery, use:
