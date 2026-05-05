@@ -418,6 +418,8 @@ This ensures idempotency and avoids unnecessary API calls.
 🔗 [Channel name](t.me/link) · [Channel name](t.me/link)
 
 ### PR-инфоповоды
+
+**N. [Title]**
 ...
 
 ### UGC и соцсети
@@ -446,6 +448,8 @@ This ensures idempotency and avoids unnecessary API calls.
 
 *Source file: out/posts-YYYY-MM-DD-filtered.json*
 ```
+
+**Critical rule: continuous numbering.** Item numbers must be sequential across the entire brief, starting from 1 and never resetting between sections or geography splits. This lets the user reference items by number (e.g. "2, 8, 15, 17") for follow-up tasks like reel script writing.
 
 ## Output Format
 
