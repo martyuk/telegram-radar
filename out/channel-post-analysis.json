@@ -1,0 +1,895 @@
+[
+  {
+    "username": "@trendsetter",
+    "title": "Ты в тренде или уходи",
+    "subscribers": 998858,
+    "description": "Этот канал читает айтишник из Сбера, удалёнщик с Кипра и маркетолог из Яндекса. Делаем русский маркетинг модным🇷🇺",
+    "total_posts": 11,
+    "relevant_posts": 1,
+    "job_posts": 1,
+    "off_topic_posts": 10,
+    "relevant_ratio": 0.09,
+    "job_ratio": 0.09,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/trendsetter/26784"
+    ],
+    "sample_texts": [
+      "⚡️ Бургер Кинг заколлабится с Love is. В новом меню будет пирожок с клубникой и бананом и мороженое с таким же топпингом в брендированных стаканах. Love is… ждать новинок от БК 🎧"
+    ]
+  },
+  {
+    "username": "@notypicmarketing",
+    "title": "ок, согласовано",
+    "subscribers": 392618,
+    "description": "Истории из маркетинга, медиа и SMM, заслуживающие вашего внимания. \n\nПо рекламе: @justcage\n\nПредложка: @notypicalmarketing_bot\n\nРаботаем с @bidfox_news, @Tgpodbor_official, @swaymedia, @Spiral_Yuri\n\nРКН: https://clck.ru/3GhxTN\n\n@alfapolo",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@sale_caviar",
+    "title": "кабачковая икра по акции",
+    "subscribers": 192032,
+    "description": "Наконец-то нормальный канал про маркетинг и медиа, а не это вот всё.\n\nАвтор: @caviar2\nСотрудничество: @alexdali\n\nРКН: https://rkn.link/jEA",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@pervmarketing",
+    "title": "Корнеев | Первый Маркетинговый",
+    "subscribers": 157757,
+    "description": "🥇Авторский канал про здравые смыслы в маркетинге и рекламе. \n\n@pervikirill - реклама\n\n@korsmm -  консультации, продвижение в тг \n\nhttps://gosuslugi.ru/snet/67ac2957be63a80aa9a5c663\n\nПредложить новость: @pm_cat_bot",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@creative",
+    "title": "Креатив со звездочкой",
+    "subscribers": 136115,
+    "description": "Пишу про современный маркетинг, медиа и рекламу, которую хочется пересматривать.",
+    "total_posts": 12,
+    "relevant_posts": 6,
+    "job_posts": 1,
+    "off_topic_posts": 6,
+    "relevant_ratio": 0.5,
+    "job_ratio": 0.08,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/creative/16303",
+      "https://t.me/creative/16300",
+      "https://t.me/creative/16299"
+    ],
+    "sample_texts": [
+      "Кофе буквально защищает организм от старения — ученые открыли новый механизм «омоложения» клеток. Секрет оказался не в кофеине, а в самих зернах. В них нашли вещества, которые запу",
+      "Бургер Кинг показал свою человечность и оказал поддержку всем, что помогает сейчас ликвидировать ЧС в Туапсе. С 1 по 10 мая в их ресторане будут продавать холодные напитки за симво",
+      "Поиск Яндекса вышел из интернета и поблагодарил 110 миллионов пользователей в офлайне. На московском медиафасаде теперь висит огромное «спасибо». Тем, кто каждый день ищет, наприме"
+    ]
+  },
+  {
+    "username": "@marketingold",
+    "title": "олдскульный маркетинг",
+    "subscribers": 128020,
+    "description": "маркетинг, реклама, новости, кейсы, тренды,\nsmm и le дижытале \n\nПо рекламе: @justcage\n\nРаботаем с @bidfox_news, @Tgpodbor_official, @swaymedia, @Spiral_Yuri\n\nСсылка РКН: https://clck.ru/3GhxKo\n\n@alfapolo",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@smmrus",
+    "title": "Русский маркетинг",
+    "subscribers": 126019,
+    "description": "Авторский блог про маркетинг, медиа, бизнес и не только. Мнение авторов субъективно и может не совпадать с вашим\n\nРеклама и обратная связь: @mLccrew\n\nhttps://knd.gov.ru/license?id=672dfdbae9b24e448c4a6b9d&registryType=bloggersPermission",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@popsmarketing",
+    "title": "Попсовый маркетинг",
+    "subscribers": 119942,
+    "description": "Авторский блог про маркетинг, digital и медиа. \n\nСотрудничество: @alfapolo\nПомощник: @alivian\n\nКанал сотрудничает с рекламным сервисом @Tgpodbor_official и @Spiral_Yuri\n\nРКН: clck.ru/3GDWeW\n\nTELEGA",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@Godketing",
+    "title": "Боги маркетинга",
+    "subscribers": 117441,
+    "description": "Пишу о рекламе, показываю и выкладываю лучшие креативы.  По всем вопросам: @alfapolo  Канал сотрудничает с рекламным сервисом @Tgpodbor_official, @swaymedia и @Spiral_Yuri  РКН: clck.ru/3FmAuq",
+    "total_posts": 9,
+    "relevant_posts": 6,
+    "job_posts": 0,
+    "off_topic_posts": 3,
+    "relevant_ratio": 0.67,
+    "job_ratio": 0.0,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/Godketing/16089",
+      "https://t.me/Godketing/16088",
+      "https://t.me/Godketing/16087"
+    ],
+    "sample_texts": [
+      "Зажимы для пакетов в виде кошачьих жопок — вот она, настоящая база для кухни Стоят на маркетплейсах около 300 рублей, а эмоций дают как полноценный декор 🍑",
+      "Португалец нарядился в член на корпоратив и получил в подарок…увольнение. Автоперевод всех твитов на все языки — лучшая фича в соцсетях за последние годы ☺️",
+      "Зумеры теперь смотрят не «где быстрее», а «где выгоднее и рациональнее» Поколение Z включило режим калькулятора: сравнивают цены в разных сервисах доставки и спокойно берут там, гд"
+    ]
+  },
+  {
+    "username": "@GuerrillaMarketing",
+    "title": "Партизанский Маркетинг",
+    "subscribers": 101151,
+    "description": "Авторский канал, посвященный маркетингу и рекламе.\n\nЗдесь вам не предложат ностальгировать над старыми кейсами из 90-х – это канал про маркетинг здорового человека.\n\nКонтакты: @feomet\n\nРКН: clck.ru/3F3dqf",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@creativeee",
+    "title": "гура́",
+    "subscribers": 66931,
+    "description": "Я Данил Гура и каждый день мой мозг обрабатывает около 50 (в среднем) рекламных кампаний. \n\nгура́ – это место где ты найдешь самые креативные активации со всего мира! 👀\n\nПо вопросам сотрудничества: @earlsky\n\nРКН: http://clck.ru/3GX5J3",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@dnative",
+    "title": "DNative — блог Ткачука про SMM",
+    "subscribers": 63484,
+    "description": "Авторский блог Алексея Ткачука. SMM-стратегия и осознанный подход к ведению проектов в соцсетях. Реклама/Консультации — @denominant Курс по SMM-стратегии — whyte.dnative.ru",
+    "total_posts": 6,
+    "relevant_posts": 5,
+    "job_posts": 3,
+    "off_topic_posts": 1,
+    "relevant_ratio": 0.83,
+    "job_ratio": 0.5,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/dnative/7589",
+      "https://t.me/dnative/7584",
+      "https://t.me/dnative/7582"
+    ],
+    "sample_texts": [
+      "Один инструмент, чтоб всех посчитать Не Кольцо Всевластия, но принцип похожий. В мире большого маркетинга, точнее больших бюджетов и разных рекламных каналов всегда прав тот, кто л",
+      "Доказательства процесса и контент-спутник Про тренды всегда сложно писать. Пока тренд чувствуется на кончиках пальцев и едва заметен, ты звучишь как человек, который «что-то там се",
+      "Мой Синдром Самозванца Я уже 13 лет в SMM и у меня до сих пор есть ощущение, что вот-вот придёт кто-то «старший» и объяснит мне и всем вокруг, что я нихренашеньки не знаю, не умею "
+    ]
+  },
+  {
+    "username": "@pstmarketing",
+    "title": "Постмаркетинг",
+    "subscribers": 61519,
+    "description": "Живая летопись рынка маркетинга и коммуникаций РФ в эпоху постапокалипсиса. Критика, инсайды, разоблачение трюков.  ✍🏻Редакция: @treugolny  Зарегистрирован в РКН: https://gosuslugi.ru/snet/67c6e7f339842d08bc1bac5f",
+    "total_posts": 11,
+    "relevant_posts": 11,
+    "job_posts": 4,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 0.36,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/pstmarketing/12906",
+      "https://t.me/pstmarketing/12905",
+      "https://t.me/pstmarketing/12904"
+    ],
+    "sample_texts": [
+      "🤔В первом квартале 2026 года глобальный медиабизнес WPP (WPP Media), который даёт около 41% выручки компании, показал самое сильное падение среди всех подразделений, доходы снизили",
+      "😂Кадровики пытаются быть заказчиками рекламных агентств на стезе лидогенерации и надеются иметь какие-то твердые гарантии. Вы на них посмотрите! Ага… Серия наивных вопросов в опрос",
+      "🤓И по вопросу культурного многообразия брендов… Французский бренд Lemaire был вынужден публично извиниться в Китае после скандала вокруг рекламы своей парфюмерной коллекции. Причин"
+    ]
+  },
+  {
+    "username": "@dankmarketing",
+    "title": "Зашкваркетинг",
+    "subscribers": 61267,
+    "description": "Тут не совсем зашкваркетинг — пишу про маркетинговые штуки, диджитал интересности и приколдесную (или нет) рекламу  Реклама и предложка только тут: @wladeo  Мемы: @unosmemes  В комментариях запрещены оскорбления  РКН: https://clck.ru/3FPbaD",
+    "total_posts": 13,
+    "relevant_posts": 7,
+    "job_posts": 2,
+    "off_topic_posts": 6,
+    "relevant_ratio": 0.54,
+    "job_ratio": 0.15,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/dankmarketing/17636",
+      "https://t.me/dankmarketing/17635",
+      "https://t.me/dankmarketing/17633"
+    ],
+    "sample_texts": [
+      "Halls развесил по метро Бангкока бесплатные леденцы. Это промо для коллаборации с лимонадами от местной компании Singha Правда, у этого бренда есть пиво — могли бы и его за поручни",
+      "Budweiser разрешил вам проливать пиво. Компания выпустила рекламу к грядущему Чемпионату мира по футболу — готовьтесь, скоро таких будет много В ролике бывший тренер Юрген Клопп ве",
+      "Вот в чём сила экосистемы — фильм «Горыныч» во время премьеры был буквально везде. Рекламу и анонсы можно было увидеть на Кинопоиске, Яндекс Афише и даже внутри категорий кешбэка П"
+    ]
+  },
+  {
+    "username": "@blogsmm",
+    "title": "Саша Чижов",
+    "subscribers": 38564,
+    "description": "Авторский канал директора Студии Чижова о продвижении бизнеса и управлении рекламным агентством.  Условия рекламы: https://buildin.ai/e5c9659f-2deb-4df4-8491-fd2b460e8667  Заказать рекламу: @ShalamBola По другим вопросам – автор канала: @lazysmm",
+    "total_posts": 7,
+    "relevant_posts": 6,
+    "job_posts": 3,
+    "off_topic_posts": 1,
+    "relevant_ratio": 0.86,
+    "job_ratio": 0.43,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/blogsmm/2430",
+      "https://t.me/blogsmm/2429",
+      "https://t.me/blogsmm/2426"
+    ],
+    "sample_texts": [
+      "По Телеграму, кажется, на 4–5 месяцев подотпустит — что в наших реалиях уже роскошь (спасибо, ФАС). Пока хоть какая-то пауза в телеграм-истерии, я бы вот на что обратил внимание. Н",
+      "Посмотри еще Если бы я сегодня мог дать себе совет куда-то в десять лет назад, то однозначно это было “посмотри еще”. Одна из главных ошибок Студии, за которую мы заплатили годами,",
+      "Как меняется рынок инфлюенс-маркетинга Кстати говоря, мы крайне мало говорим о том, как меняется рынок инфлюенс-маркетинга и креаторов. Олдово автор контента как зарабатывает: наби"
+    ]
+  },
+  {
+    "username": "@adindex",
+    "title": "AdIndex",
+    "subscribers": 29200,
+    "description": "Весь мир маркетинга в одном медиа   Новости и интересные темы присылайте в @AdIndex_news_bot   По вопросам рекламы — info@adindex.ru  Регистрация в перечне РКН: https://adndx.ru/JetYF",
+    "total_posts": 15,
+    "relevant_posts": 14,
+    "job_posts": 1,
+    "off_topic_posts": 1,
+    "relevant_ratio": 0.93,
+    "job_ratio": 0.07,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/adindex/26504",
+      "https://t.me/adindex/26503",
+      "https://t.me/adindex/26502"
+    ],
+    "sample_texts": [
+      "Кейс «М.Видео»: «Таргетинг вместо демпинга» Петр Стерлигов, руководитель департамента маркетинговых коммуникаций «М.Видео», рассказал, как увеличить эффективность с помощью сегмент",
+      "Кейс «билайна»: «Нам всем как никогда нужен план Б» О том, как изменить восприятие бренда с помощью нейросетей в рамках тарифа и создать тренд, рассказала директор департамента инт",
+      "#новости_партнеров С 18 по 22 мая состоится конференция «Неделя Агро Маркетинга 2026». Мероприятие пройдет в онлайн-формате. 🥰 @adindex"
+    ]
+  },
+  {
+    "username": "@honestmarketing",
+    "title": "Что вы мне рекламируете?",
+    "subscribers": 27988,
+    "description": "Авторский канал Макса Королькова о самом важном из западного маркетинга и технологий\n\nРазборы, аналитика, чутка мемов // Est 2018\n\nя: @maxnatty\nмой канал про пуши: @goldpush\n\nhttps://clck.ru/3GTRMc",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@motherideas",
+    "title": "Мать маркетинга",
+    "subscribers": 12009,
+    "description": "Авторский канал матери ангелочков: маркетинга, рекламы и пиара. Пишу про инсайды и тренды самая первая.\n\nВышла замуж за креатив и родила тройню.\n\nАвтор: @alinaideas\n\nРКН: https://clck.ru/3G9oeg",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@adpass_media",
+    "title": "ADPASS",
+    "subscribers": 11478,
+    "description": "ADPASS — портал о маркетинге и рекламе    🔹Блог-платформа для компаний 🔹Редакционные материалы 🔹Календарь мероприятий  🔹Главные цифры рынка  www.adpass.ru  По вопросам блогов: hello@adpass.ru  По вопросам PR: @uLiAnA_d_f По вопросам рекламы: @linazhid",
+    "total_posts": 12,
+    "relevant_posts": 6,
+    "job_posts": 4,
+    "off_topic_posts": 6,
+    "relevant_ratio": 0.5,
+    "job_ratio": 0.33,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/adpass_media/13171",
+      "https://t.me/adpass_media/13166",
+      "https://t.me/adpass_media/13165"
+    ],
+    "sample_texts": [
+      "За окном настоящий шквал инфоповодов. Синоптики сообщают, что прохожих сносит новостями. Эксперты рекомендуют держаться за дайджест 💯 → 5 вариаций архетипа Мага → Стратегия расчёта",
+      "Кухонной утвари дали выговориться Компания Weiman в новой кампании Your Kitchen Says A Lot About You («Ваша кухня многое говорит о вас») отказалась от традиционной рекламы чистящих",
+      "Как ИИ ломает маркетинг: что делать брендам в новой реальности 🔗 В выпуске программы «Рекламный щит» вместе с Юлией Удовенко, вице-президентом по маркетингу группы RW+, разбираемся"
+    ]
+  },
+  {
+    "username": "@dmcrus",
+    "title": "Digital Marketing Club Russia",
+    "subscribers": 10718,
+    "description": "О диджитале с точки зрения бизнеса. Канал ведет @lambaev     Сайт: https://digitalmarketingclub.ru/  Зарегистрирован в РКН: https://www.gosuslugi.ru/snet/68ff87ffdc3a6ea68c089b32",
+    "total_posts": 14,
+    "relevant_posts": 14,
+    "job_posts": 2,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 0.14,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/dmcrus/893",
+      "https://t.me/dmcrus/892",
+      "https://t.me/dmcrus/891"
+    ],
+    "sample_texts": [
+      "Т-Банк запустил таргетинг по своим сегмента во внешних рекламных сетях Т-Реклама запустила новый инструмент для рекламодателей в виде сквозных кросс-канальных кампаний с возможност",
+      "Рекламный рынок СМБ: бюджеты в 2025 выросли на 24%, а число клиентов — лишь на 1,1% В начале апреля вышло исследование АРИР и Data Insight: 66% малых и средних российских компаний ",
+      "Неоднозначный однозначный рост: рекламная выручка Яндекса выросла на 9% в первом квартале 2026 года Общая выручка выросла на 22% до 372,7 млрд руб., а EBITDA скакнула на 50% — до 7"
+    ]
+  },
+  {
+    "username": "@allbillboards",
+    "title": "Наружная реклама России",
+    "subscribers": 7826,
+    "description": "Компетентно о наружной, транзитной и indoor рекламе. И не только. Для связи dsp@all-billboards.ru",
+    "total_posts": 11,
+    "relevant_posts": 8,
+    "job_posts": 3,
+    "off_topic_posts": 3,
+    "relevant_ratio": 0.73,
+    "job_ratio": 0.27,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/allbillboards/7865",
+      "https://t.me/allbillboards/7863",
+      "https://t.me/allbillboards/7862"
+    ],
+    "sample_texts": [
+      "Ким купила бизнес Ким и стала партнером Ким 😊 Wildberries-Russ приобрел контрольную долю одного из старейших брендинговых агентств.",
+      "Рецепт приготовления утренней утки 1. Берем головное юрлицо Вайлдберрис, у которого десятки дочек и которое постоянно находится в реорганизации. 2. Берем головное юрлицо MAER, кото",
+      "Russ поглотил еще одного регионального оператора На этот раз самарский “Реклайм”, чьи билборды были взяты им в управление три месяца назад. Тогда владелец и гендиректор оператора Н"
+    ]
+  },
+  {
+    "username": "@krut_bl",
+    "title": "кртбл / брендинг медиа /",
+    "subscribers": 6960,
+    "description": "Познавательно о брендах и  брендинге,  канал ведёт Вадим Богдан, ex-head of brand strategy \"Азбука вкуса\".   Консалтинг по брендингу и стратегии tohack.ru и strategy think tank https://t.me/open_pl.    ✏️ @vvad1m",
+    "total_posts": 8,
+    "relevant_posts": 7,
+    "job_posts": 2,
+    "off_topic_posts": 1,
+    "relevant_ratio": 0.88,
+    "job_ratio": 0.25,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/krut_bl/9283",
+      "https://t.me/krut_bl/9282",
+      "https://t.me/krut_bl/9279"
+    ],
+    "sample_texts": [
+      "М.Видео теперь «М.Вкусно»? #размышляебл «М.Видео» официально заходит на территорию фуд-ритейла. Пока мы гадали, как оживить продажи электроники, ребята решили просто добавить в асс",
+      "Кейс «Ration D»: Шоколад как наказание #хисторикобл История с шоколадом Hershey’s — пожалуй, самый честный пример в истории, когда продукт испортили из соображений прикладной задач",
+      "Давайте вспомним победителей Food Winners 2025 года от Pentawards (в категории СТМ) #дизайнобл • Золото – крекеры для животных Fortnum&Mason от Design Bridge and Partners (Великобр"
+    ]
+  },
+  {
+    "username": "@marketing_s",
+    "title": "Маркетинг и Реклама",
+    "subscribers": 6138,
+    "description": "Здесь вы научитесь исскуству маркетинга и рекламы! Сотрудничество - @v_tsarenco",
+    "total_posts": 15,
+    "relevant_posts": 15,
+    "job_posts": 6,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 0.4,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/marketing_s/4270",
+      "https://t.me/marketing_s/4269",
+      "https://t.me/marketing_s/4268"
+    ],
+    "sample_texts": [
+      "Клиенты на всю жизнь, как себя ими обеспечить? Когда вы думаете об обслуживании клиентов, наверняка вам приходят на ум слова «пожалуйста, спасибо, да, конечно, нет, извините». Коне",
+      "CRM давно стала must-have даже для маленьких брендов. Хорошо, что есть рейтинг, который помогает выбрать свою — без боли и бесконечных сравнений👉https://t.me/stasyboooo/1321",
+      "Конверсия на разных этапах взаимодействия с клиентами Вопрос, как и зачем считать конверсию, зависит от модели бизнеса и текущих целей его развития. На разных этапах бизнеса выделя"
+    ]
+  },
+  {
+    "username": "@smmruslite",
+    "title": "РМ lite",
+    "subscribers": 5838,
+    "description": "3-5 новостей в день о самом главном. Коротко, без воды и лишней информации.  Обратная связь: @mLccrew",
+    "total_posts": 15,
+    "relevant_posts": 4,
+    "job_posts": 1,
+    "off_topic_posts": 11,
+    "relevant_ratio": 0.27,
+    "job_ratio": 0.07,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/smmruslite/3968",
+      "https://t.me/smmruslite/3964",
+      "https://t.me/smmruslite/3963"
+    ],
+    "sample_texts": [
+      "VK Видео запустила мобильный Кабинет автора для iOS и Android: в приложении появились инструменты управления контентом и аналитики, которые раньше были только на десктопе. Внутри —",
+      "Рекламный рынок Mах за полгода вырос в 55 раз, с 2 млн до 110 млн рублей в месяц. Число рекламодателей увеличилось в 25 раз и достигло 5 тысяч. По итогам 2026 года объём рекламы мо",
+      "Flowwow откроет первый офлайн-магазин с кофейней и зоной отдыха в Москве. Там будут продаваться товары партнёров и селлеров маркетплейса, включая одежду, аксессуары, украшения и ко"
+    ]
+  },
+  {
+    "username": "@national_advertising_forum",
+    "title": "Юбилейный НРФ | Неделя рекламы в Москве",
+    "subscribers": 4154,
+    "description": "Официальный аккаунт Национального рекламного форума — самого масштабного события на рынке: https://advertisingforum.ru    📅 11-13 ноября 2026 📍 Москва, кинотеатр «Октябрь»  По вопросам покупки билетов: org@akarussia.ru",
+    "total_posts": 4,
+    "relevant_posts": 4,
+    "job_posts": 2,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 0.5,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/national_advertising_forum/3290",
+      "https://t.me/national_advertising_forum/3287",
+      "https://t.me/national_advertising_forum/3286"
+    ],
+    "sample_texts": [
+      "Подпишите заявление на новую должность 📝 Если вы планировали провести майские праздники без работы, у нас для вас неожиданные новости — мы уже придумали новые должности на эти выхо",
+      "Первый вебинар Экспертного клуба пройдет уже на следующей неделе🔥 Бесплатный вебинар «Внимание как ресурс: как захватывать, удерживать и превращать его в результат» расскажет, что ",
+      "Анонсируем новый проект НРФ⚡️ Экспертный клуб НРФ — серия контентно-информационных активностей, запуск которых приурочен к первому большому юбилею форума: 10 лет на рынке. Что мы г"
+    ]
+  },
+  {
+    "username": "@memtc",
+    "title": "МеМТС",
+    "subscribers": 4015,
+    "description": "да, мы из бигтеха. нет, мы не скажем, откуда именно. заходите за мемами про наш любимый д и д ж и т а л",
+    "total_posts": 15,
+    "relevant_posts": 2,
+    "job_posts": 2,
+    "off_topic_posts": 13,
+    "relevant_ratio": 0.13,
+    "job_ratio": 0.13,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/memtc/1707",
+      "https://t.me/memtc/1699"
+    ],
+    "sample_texts": [
+      "норм тема. надо ещё похожее приложение сделать, где можно отмечать самые зашкварные креативы у брендов. но концепт оставляем)))",
+      "бренданалитикс выкатили топ-15 мемов первого квартала мой 2016 хз че такое, остальное канешн видели, а кое что даже развидеть бы доброе утро"
+    ]
+  },
+  {
+    "username": "@digitalopinion",
+    "title": "СугубоЛичноеМнение",
+    "subscribers": 3572,
+    "description": "Субъективно про диджитал, тренды и коммуникации.  Более 20 лет в маркетинге, управляющий директор по стратегии и продукту RW+,  ранее - вице-президент по маркетингу “Родная Речь», Publicis Groupe, OKKAM. По вопросам сотрудничества: julia_ud@mail.ru",
+    "total_posts": 13,
+    "relevant_posts": 7,
+    "job_posts": 1,
+    "off_topic_posts": 6,
+    "relevant_ratio": 0.54,
+    "job_ratio": 0.08,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/digitalopinion/3797",
+      "https://t.me/digitalopinion/3794",
+      "https://t.me/digitalopinion/3791"
+    ],
+    "sample_texts": [
+      "Делюсь короткой версией своей презентации с «Измени Сознание»: ➕ Мы задались вопросом в чем особенности стратегий брендов-челленджеров, которым удалось показать существенный рост в",
+      "А еще у нас был совершенно потрясающий разговор с Александром Аузаном! Вот тут отрывок, где Сан Саныч отвечает на вопрос как индустрия коммуникаций может способствовать развитию дл",
+      "Измени сознание 2026: культурный код доверия или «свой среди чужих» Последние лет пять индустрия живёт в логике «больше, точнее, дешевле» — больше охватов, точнее таргет, дешевле к"
+    ]
+  },
+  {
+    "username": "@Group4Media_news",
+    "title": "Group4Media",
+    "subscribers": 3538,
+    "description": "Анализируем последние тренды, исследования и новости рекламной индустрии вместе с экспертами Group4Media (ex GroupM)  Сайт: group4media.ru  Написать нам: info@group4m.ru",
+    "total_posts": 5,
+    "relevant_posts": 5,
+    "job_posts": 1,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 0.2,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/Group4Media_news/1604",
+      "https://t.me/Group4Media_news/1603",
+      "https://t.me/Group4Media_news/1597"
+    ],
+    "sample_texts": [
+      "Панорама медиаландшафта: телеком Команда Group4Media изучила медиаландшафт в различных категориях. В этом посте - ключевые выводы по телекому. Год к году сегмент связи вырос на 27%",
+      "🎓 Вебинар: «Летние распродажи: как получить максимальный эффект» 🔜29 апреля в 12:00 на вебинаре Ozon Реклама расскажем, как использовать летние распродажи на максимум. О чём погово",
+      "Панорама медиаландшафта: путешествия Команда Group4Media проанализировала категории финансы, связь, онлайн- и офлайн-ритейл, путешествия. В этом посте - о том, что происходит в tra"
+    ]
+  },
+  {
+    "username": "@omd_mi",
+    "title": "OMD Media Intelligence",
+    "subscribers": 1911,
+    "description": "Канал OMD Media Intelligence Дэшборды, Боты, Инструменты",
+    "total_posts": 12,
+    "relevant_posts": 7,
+    "job_posts": 0,
+    "off_topic_posts": 5,
+    "relevant_ratio": 0.58,
+    "job_ratio": 0.0,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/omd_mi/3584",
+      "https://t.me/omd_mi/3581",
+      "https://t.me/omd_mi/3579"
+    ],
+    "sample_texts": [
+      "Ко-бренды практически испарились из рекламы маркетплейсов. Их количество (на один ролик) все время снижалось. Но после нового года резко рухнуло и стало почти неотличимым от нуля. ",
+      "Французский бренд Lemaire опростоволосился В своей рекламе они зачем-то использовали косу и ножницы, чем обидели китайцев. Во времена маньчжурской династии Цин их под страхом смерт",
+      "Вино на каждый день Сицилийское вино Corvo разместило рекламу в газете La Gazzetta dello Sport. Отпечаток донца бутылки и слоган \"Il quotidiano nel quotidiano\". Игра слов. Quotidia"
+    ]
+  },
+  {
+    "username": "@chizhov_academy",
+    "title": "Академия Студии Чижова",
+    "subscribers": 1763,
+    "description": "Здесь растет эсэмэм🎓  Образовательное подразделение ТОП-2 SMM-агенств по Рейтингу Рунета   Помогаем новичкам и продвинутым эсэмэмщикам давать результат бизнесу и строить кайфовую карьеру  Еще больше о нас: https://clck.ru/33TgDY",
+    "total_posts": 9,
+    "relevant_posts": 5,
+    "job_posts": 1,
+    "off_topic_posts": 4,
+    "relevant_ratio": 0.56,
+    "job_ratio": 0.11,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/chizhov_academy/1815",
+      "https://t.me/chizhov_academy/1813",
+      "https://t.me/chizhov_academy/1810"
+    ],
+    "sample_texts": [
+      "До главной SMM-конференции года 💪💪💪 осталось 7 дней До конца скидки 30% — 5 дней Программа собрана, презентации готовятся, бейджи печатаются. У кого уже есть билеты, приходите смот",
+      "😊 Хотите бесплатную демо-версию главной SMM-конференции РИЧРЕЙТ? Тогда приходите на наш митап 24 марта в 18:00: «Шарить за тренды как “Геркулес”: вирусный SMM и глобальное исследов",
+      "😊 ТОП-100 брендов в MAX Мы изучили ситуацию у брендов-лидеров в Telegram и выяснили, что 60% из них уже создали каналы в MAX. Вот несколько фактов: 🔘 Совокупная аудитория 100 крупн"
+    ]
+  },
+  {
+    "username": "@nadoodelat",
+    "title": "Надо делать",
+    "subscribers": 884,
+    "description": "Мемы, тренды и токсичные шутки о русском дижотоле",
+    "total_posts": null,
+    "relevant_posts": null,
+    "job_posts": null,
+    "off_topic_posts": null,
+    "relevant_ratio": null,
+    "job_ratio": null,
+    "verdict": "include",
+    "sample_urls": [],
+    "sample_texts": []
+  },
+  {
+    "username": "@outdoormedia_om",
+    "title": "Outdoor Media",
+    "subscribers": 840,
+    "description": "Outdoor Media – помогаем рекламистам и рекламодателям быть в курсе последних событий, новых технологий и трендов на российском и мировом рынках out-of-home рекламы.  Для связи: @vlom24                        info@outdoor.ru",
+    "total_posts": 15,
+    "relevant_posts": 15,
+    "job_posts": 4,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 0.27,
+    "verdict": "include",
+    "sample_urls": [
+      "https://t.me/outdoormedia_om/2765",
+      "https://t.me/outdoormedia_om/2764",
+      "https://t.me/outdoormedia_om/2763"
+    ],
+    "sample_texts": [
+      "Компания «ВОСТОК‑МЕДИА» усиливает присутствие в Республике Крым и объявляет о приобретении симферопольского оператора наружной рекламы «БУРСТ». Инвентарь оператора расположен в клю",
+      "Группа Russ завершила интеграцию рекламного инвентаря в аэропортах «Новапорт Холдинг» в собственную сеть. Работы выполнены в рамках соглашения, заключённого в марте 2025 г., в соот",
+      "Согласно исследованию, проведённого «ВКонтакте», 78% респондентов считают дизайн самой востребованной специальностью в креативной экономике. Следом идут видеомонтаж (77%), фотограф"
+    ]
+  },
+  {
+    "username": "@dddwork",
+    "title": "Работа в медиа",
+    "subscribers": 92827,
+    "description": "Вакансии в медиасфере, СМИ и digital.  Разместить вакансию, стоимость 2000 р: @ENBorisova По вопросам рекламы: @sashasuan  РКН: https://knd.gov.ru/license? id=673466a3342af512e767c359&registryType=bloggersPermission",
+    "total_posts": 15,
+    "relevant_posts": 15,
+    "job_posts": 15,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 1.0,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/dddwork/4934",
+      "https://t.me/dddwork/4933",
+      "https://t.me/dddwork/4931"
+    ],
+    "sample_texts": [
+      "SMM-менеджер + монтажёр в одном лице для 2-х спортивных проектов Что делать: Проект №1 — спортивно-развлекательный проект с упором на продажу онлайн-тренировок – монтаж Reels и нап",
+      "Контент-менеджер в AI-контент агентство ICG Что делать: – выбирать лучшие сценарии из трендов; – ставить задачи монтажёрам — чётко, с первого раза, без переделок; – проверять видео",
+      "Контент-маркетолог / сценарист / копирайтер в бизнес-школу для обучения предпринимателей Что делать: – писать посты для Telegram, Instagram и тексты для рассылок, которые вовлекают"
+    ]
+  },
+  {
+    "username": "@dnative_job",
+    "title": "Вакансии SMM и Digital",
+    "subscribers": 91679,
+    "description": "Публикация вакансий в канале платная  https://t.me/dnative_job/3375  Основной канал - @dnative Вакансии от 150k рублей  @dnative_job100 Отзывы @dnative_job_review",
+    "total_posts": 15,
+    "relevant_posts": 15,
+    "job_posts": 15,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 1.0,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/dnative_job/11097",
+      "https://t.me/dnative_job/11096",
+      "https://t.me/dnative_job/11095"
+    ],
+    "sample_texts": [
+      "🖥 Вакансия — Удалённо 🕹 Должность Маркетолог по Автоворонкам 🕹 Работодатель Онлайн-школа по отношениям психолога Андрея Асабаева https://t.me/andreyasabaev 🕹 Список обязанностей: Г",
+      "🖥 Вакансия — Удалённо 🕹 Должность Growth-маркетолог / Marketing Partner 🕹 Работодатель HealthTech + AI сервис CalMePlease.io 🕹 Список обязанностей: — Запуск и масштабирование платн",
+      "🖥 Вакансия — Москва 🕹 Должность Head of Social Media 🕹 Работодатель Бренд АйсКро @icecro_official 🕹 Список обязанностей: — Разрабатывать и реализовывать стратегию продвижения компа"
+    ]
+  },
+  {
+    "username": "@workasap",
+    "title": "Работа в диджитал и медиа",
+    "subscribers": 68008,
+    "description": "Вакансии для маркетологов, эсэмэмщиков, дизайнеров, редакторов и всех, кто работает в диджитал и медиа.   Размещение вакансий (1500р) и другие вопросы: @zubar89  Канал включён в перечень РКН: https://rkn.link/kaa",
+    "total_posts": 15,
+    "relevant_posts": 15,
+    "job_posts": 12,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 0.8,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/workasap/5378",
+      "https://t.me/workasap/5377",
+      "https://t.me/workasap/5376"
+    ],
+    "sample_texts": [
+      "Контент-менеджер в AI-контент агентство ICG ICG — AI-контент агентство, которое создает 10 000+ коротких видео в месяц для Reels, Shorts и TikTok. Работают с брендами из СНГ и США,",
+      "SMM-менеджер для двух спортивных проектов Проект №1 — спортивно-развлекательный проект с упором на продажу онлайн-тренировок. Что делать: — монтировать Reels и писать к ним тексты ",
+      "Контент-маркетолог / сценарист / копирайтер в бизнес-школу для обучения предпринимателей Что делать: — писать посты для Telegram, Instagram* и тексты для рассылок, которые вовлекаю"
+    ]
+  },
+  {
+    "username": "@marketing_jobs",
+    "title": "🎯 marketing jobs — вакансии для маркетологов",
+    "subscribers": 55667,
+    "description": "Вакансии для маркетологов, пиарщиков, рекламщиков, AI и digital-специалистов  📍Размещение вакансий — @mary_ali_en 📍Остальные вопросы — @vv_morozov  Канал в реестре РКН — https://clck.ru/3GJhXg",
+    "total_posts": 14,
+    "relevant_posts": 14,
+    "job_posts": 13,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 0.93,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/marketing_jobs/11366",
+      "https://t.me/marketing_jobs/11365",
+      "https://t.me/marketing_jobs/11364"
+    ],
+    "sample_texts": [
+      "Ведущий PR-специалист (B2B-сегмент) в Авито. Москва. Частичная удаленка. ЗАДАЧИ: • Принимать участие в создании и реализации PR-стратегии. • Отвечать за поддержку B2B-активностей д",
+      "Арт-директор в Сбер. Москва. О НАС: Ищем арт-директора, который возглавит визуальное направление нашего контента — имиджевых и продуктовых роликов, а также графики для крупных техн",
+      "Маркетолог в онлайн-школу. Удаленка. О НАС: Онлайн-школа Таро. ЗАДАЧИ: • Выведение контента на новый уровень, формирование лица бренда в соцсетях (Instagram, кросс-постинг в Telegr"
+    ]
+  },
+  {
+    "username": "@vacancysmm",
+    "title": "SMM работа, вакансии, фриланс",
+    "subscribers": 35931,
+    "description": "Свежие вакансии для smmщиков, таргетологов, директологов и других digital-специалистов каждый день! Подпишись и получай новые заказы!  Информация как разместить вакансию/ рекламу/резюме - в закрепленном сообщении!  Для связи @ViktorShipilov",
+    "total_posts": 15,
+    "relevant_posts": 14,
+    "job_posts": 14,
+    "off_topic_posts": 1,
+    "relevant_ratio": 0.93,
+    "job_ratio": 0.93,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/vacancysmm/16236",
+      "https://t.me/vacancysmm/16235",
+      "https://t.me/vacancysmm/16234"
+    ],
+    "sample_texts": [
+      "SMM-эксперт / Freelance-маркетолог ⚡️ Помогаю бизнесу решать задачи по маркетингу и продвижению, не раздувая штат. В SMM я более 5 лет — за это время научилась видеть проект не про",
+      "🔥 Ищем модератора контента в команду «Яблочного Рынка»! Мы — стабильная сеть магазинов оригинальной техники Apple (на рынке более 10 лет). Сейчас мы активно масштабируем нашу сетку",
+      "Ищу SMM-специалиста для помощи по соцсетям турагентства Сейчас веду Telegram, Instagram, Дзен, Pinterest. Важно. Тексты и темы придумывать не нужно. Нужен человек, который поможет "
+    ]
+  },
+  {
+    "username": "@smmlancer",
+    "title": "SMMLANCER - работа в соц.сетях!",
+    "subscribers": 21369,
+    "description": "Сообщество людей, работающих в социальных сетях. ✔️Свежие крутые вакансии ежедневно!  ✅Нужно разместить вакансию? Пишите.  @irisleo  ✅Реклама на канале.  @irisleo",
+    "total_posts": 15,
+    "relevant_posts": 9,
+    "job_posts": 15,
+    "off_topic_posts": 6,
+    "relevant_ratio": 0.6,
+    "job_ratio": 1.0,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/smmlancer/8115",
+      "https://t.me/smmlancer/8113",
+      "https://t.me/smmlancer/8111"
+    ],
+    "sample_texts": [
+      "#вакансия #SMM #смм Ищем SMM-специалиста, который умеет работать с личным брендом и превращать жизнь, мысли и экспертность в живой контент. Проект: эксперт в нише онлайн-бизнеса, п",
+      "Ты SMMщик и до сих пор ищешь клиентов? Тогда у тебя не фриланс. У тебя шабашки. Жёстко, но это факт. Ты наверняка делал все, чтобы найти клиентов: — работал с кем угодно, лишь бы п",
+      "#вакансия #СПБ #смм #smm #контентмейкер #спб 📍 Санкт-Петербург 🎬 CMM-менеджер / контентмейкер (косметология) 💼 Проектная работа в косметологической компании (СПб). 🔍 Требуется CMM-"
+    ]
+  },
+  {
+    "username": "@smm_vakansiii",
+    "title": "SMM РИЛСМЕЙКЕР ВАКАНСИИ РАБОТА",
+    "subscribers": 16904,
+    "description": "☑️ Здравствуйте, я Виктория, автор сетки каналов с вакансиями с 2021 года  ☑️Условие размещения @nortennnn1 ☑️По всем вопросам @northen_girl РКН: https://clck.ru/3MAWk7",
+    "total_posts": 15,
+    "relevant_posts": 14,
+    "job_posts": 13,
+    "off_topic_posts": 1,
+    "relevant_ratio": 0.93,
+    "job_ratio": 0.87,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/smm_vakansiii/4306",
+      "https://t.me/smm_vakansiii/4304",
+      "https://t.me/smm_vakansiii/4303"
+    ],
+    "sample_texts": [
+      "🙂Ищем SMM-специалиста, который умеет работать с личным брендом и превращать жизнь, мысли и экспертность в живой контент. Проект: эксперт в нише онлайн-бизнеса, продвижения и вороно",
+      "🙂Ассистент SMM-менеджера З/п 25 000 рублей, удалённая работа Для 2 спортивных проектов (агентствам не беспокоить) Проект №1 — спортивно-развлекательный проект с упором на продажу о",
+      "🙂Мы — AI-контент агентство ICG. Создаем 10,000+ коротких видео в месяц. Делаем видео для брендов в формате говорящей головы для Reels / Shorts / TikTok и масштабируем продакшн. Раб"
+    ]
+  },
+  {
+    "username": "@targetsmmvakansii",
+    "title": "SMM СММ Актуальные Вакансии Работа Таргетолог Фриланс маркетинг Таргет",
+    "subscribers": 10816,
+    "description": "Вакансии и предложения о работе для удаленного сотрудничества и в офис. Можно найти работу для SMM специалистов, таргетологов, администраторов соцсетей, копирайтеров, маркетологов, дизайнеров  По Рекламе и Вакансиям👉 @workoutSMM",
+    "total_posts": 15,
+    "relevant_posts": 14,
+    "job_posts": 15,
+    "off_topic_posts": 1,
+    "relevant_ratio": 0.93,
+    "job_ratio": 1.0,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/targetsmmvakansii/6433",
+      "https://t.me/targetsmmvakansii/6432",
+      "https://t.me/targetsmmvakansii/6430"
+    ],
+    "sample_texts": [
+      "SMM-telegram Бинарки Крупнейшая команда в нише бинарки в поисках копирайтера -Написание продающих постов для Telegram-каналов: прогревы, вовлечение, CTA-посты, сторителлинг. -Текст",
+      "Копирайтер Крупнейшая команда в нише бинарки (США) в поисках копирайтера -Написание продающих постов для Telegram-каналов: прогревы, вовлечение, CTA-посты, сторителлинг. -Тексты дл",
+      "🏢 Компания: NDA 🔎 Ищем: Team lead Mediabuying (Facebook / Gambling) 💡 О нас: Мы — команда в affiliate-маркетинге, активно развивающая Gambling-направление. Сейчас строим сильный me"
+    ]
+  },
+  {
+    "username": "@vakansii_smm",
+    "title": "🏄🏼 Таверна СММ | РАБОТА | ВАКАНСИИ",
+    "subscribers": 9027,
+    "description": "🔥 Поиск Маркетинг спецов,  а так же резюме от опытных специалистов.  ⚠️ Внимание: Вопросы по вакансиям и резюме принимаются только через бота @Post1_Cat_Bot.  •  Реклама: https://t.me/m/BrzyHVNuYmEy | @Sofya_Kod",
+    "total_posts": 15,
+    "relevant_posts": 11,
+    "job_posts": 14,
+    "off_topic_posts": 4,
+    "relevant_ratio": 0.73,
+    "job_ratio": 0.93,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/vakansii_smm/3715",
+      "https://t.me/vakansii_smm/3714",
+      "https://t.me/vakansii_smm/3711"
+    ],
+    "sample_texts": [
+      "•#вакансия #контент_менеджер Мы — AI-контент агентство ICG. Создаем 10,000+ коротких видео в месяц. Делаем видео для брендов в формате говорящей головы для Reels / Shorts / TikTok ",
+      "•Добрый день! Знакомый ищет маркетолога в свое агентство. Если вам актуально, можете писать сразу ему или может у вас есть на примете талантливые специалисты в поисках работы. Буду",
+      "•#вакансия #smm Москва. CMM-специалист в кальян-бар З/п от 40 000, удалённая работа, гибрид Что предстоит делать: – Разработка стратегии и контент-плана. – Разработка визуальной ко"
+    ]
+  },
+  {
+    "username": "@amedia_outdoor",
+    "title": "Русская наружка",
+    "subscribers": 3509,
+    "description": "Канал о наружной рекламе в России  Свои кейсы и вопросы по рекламе отправляйте сюда: @rainbowkelpie",
+    "total_posts": 4,
+    "relevant_posts": 2,
+    "job_posts": 1,
+    "off_topic_posts": 2,
+    "relevant_ratio": 0.5,
+    "job_ratio": 0.25,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/amedia_outdoor/4575",
+      "https://t.me/amedia_outdoor/4564"
+    ],
+    "sample_texts": [
+      "Зима вернулась? Russ и Wildberries подсказывают, что делать! В ночь на 27 апреля на центральную часть России обрушился снегопад. Зима вернулась туда, где уже вовсю ждали тепла. Для",
+      "Группа Russ (входит в RWB) завершила интеграцию рекламного инвентаря в аэропортах «Новапорт Холдинг» в собственную сеть. Работы выполнены в рамках соглашения, в соответствии с кото"
+    ]
+  },
+  {
+    "username": "@TGStatAgency",
+    "title": "TGStat Agency | Маркетинг в Telegram",
+    "subscribers": 2520,
+    "description": "Канал одного агентства.   Актуальное про маркетинг в TG. Поможем Вашему бренду с рекламными кампаниями в Telegram: @TGStatAgencyBot 🌲🌳🌴",
+    "total_posts": 12,
+    "relevant_posts": 12,
+    "job_posts": 9,
+    "off_topic_posts": 0,
+    "relevant_ratio": 1.0,
+    "job_ratio": 0.75,
+    "verdict": "exclude",
+    "sample_urls": [
+      "https://t.me/TGStatAgency/414",
+      "https://t.me/TGStatAgency/413",
+      "https://t.me/TGStatAgency/412"
+    ],
+    "sample_texts": [
+      "Рекламная кампания может пойти «не туда» на двух этапах: стратегии и реализации. Второй сценарий часто обиднее — потому что все уже готово, а результат сыпется на мелочах. Разберем",
+      "При работе с блогерами мы обычно ориентируемся на три ключевых сценария. 🔹 Клиенту нужно, чтобы блогеры просто нормально отработали РК (самый частый вариант) В этом случае наша зад",
+      "97,5% брендов называют Telegram одним из ключевых каналов коммуникации и не планируют отказываться от продвижения на платформе. Это один из главных выводов большого исследования о "
+    ]
+  }
+]

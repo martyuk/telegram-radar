@@ -1,0 +1,47 @@
+{
+  "name": "telegram-channel-radar",
+  "version": "0.1.0",
+  "description": "Find popular Telegram channels for a user query, then set up recurring monitoring briefs.",
+  "author": {
+    "name": "Local Codex User",
+    "email": "local@example.com",
+    "url": "https://example.com"
+  },
+  "homepage": "https://example.com/telegram-channel-radar",
+  "repository": "https://example.com/telegram-channel-radar.git",
+  "license": "MIT",
+  "keywords": [
+    "telegram",
+    "tgstat",
+    "media-monitoring",
+    "research"
+  ],
+  "skills": "./skills/",
+  "hooks": "./hooks.json",
+  "mcpServers": "./.mcp.json",
+  "apps": "./.app.json",
+  "interface": {
+    "displayName": "Telegram Channel Radar",
+    "shortDescription": "Find relevant Telegram channels and monitor their daily agenda.",
+    "longDescription": "Researches Telegram channel catalogs and public web sources for channels matching a user's topic, ranks candidates by relevance and audience signals, then helps configure recurring monitoring briefs.",
+    "developerName": "Local Codex User",
+    "category": "Research",
+    "capabilities": [
+      "Research",
+      "Interactive",
+      "Automation"
+    ],
+    "websiteURL": "https://example.com/telegram-channel-radar",
+    "privacyPolicyURL": "https://example.com/privacy",
+    "termsOfServiceURL": "https://example.com/terms",
+    "defaultPrompt": [
+      "Найди популярные Telegram-каналы про маркетинг.",
+      "Найди новостные Telegram-каналы, которые читают в Москве.",
+      "Настрой ежедневную сводку по выбранным каналам."
+    ],
+    "brandColor": "#2AABEE",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "screenshots": []
+  }
+}

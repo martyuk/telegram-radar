@@ -1,0 +1,7 @@
+.venv/
+.env
+.telegram-session/
+*.session
+*.session-journal
+.DS_Store
+node_modules/
