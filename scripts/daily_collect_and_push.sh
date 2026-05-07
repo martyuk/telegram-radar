@@ -8,8 +8,10 @@ CHANNELS_FILE="$REPO_DIR/config/monitoring-channels.txt"
 LOG_DIR="$REPO_DIR/logs"
 DATE_VALUE="${1:-$(TZ=Europe/Moscow date +%F)}"
 OUT_FILE="$REPO_DIR/out/corpus/${DATE_VALUE}.posts.json"
+CHUNKS_DIR="$REPO_DIR/out/corpus/${DATE_VALUE}.chunks"
 RAW_URL="https://raw.githubusercontent.com/martyuk/telegram-radar/main/out/corpus/${DATE_VALUE}.posts.json"
 GITHUB_URL="https://github.com/martyuk/telegram-radar/blob/main/out/corpus/${DATE_VALUE}.posts.json"
+MANIFEST_URL="https://raw.githubusercontent.com/martyuk/telegram-radar/main/out/corpus/${DATE_VALUE}.chunks/manifest.json"
 
 mkdir -p "$LOG_DIR" "$REPO_DIR/out/corpus"
 
@@ -47,6 +49,12 @@ cd "$PLUGIN_DIR"
   --timeout 300 \
   --out "$OUT_FILE"
 
+rm -rf "$CHUNKS_DIR"
+"$PYTHON" "$REPO_DIR/scripts/json_posts_to_md_chunks.py" "$OUT_FILE" \
+  --max-chars 35000 \
+  --timezone Europe/Moscow \
+  --out-dir "$CHUNKS_DIR" >/dev/null
+
 read -r POST_COUNT CHANNEL_COUNT MISSING_CHANNELS < <("$PYTHON" - "$OUT_FILE" "$CHANNELS_FILE" <<'PY'
 import json
 import sys
@@ -63,7 +71,27 @@ PY
 )
 
 cd "$REPO_DIR"
-git add "$OUT_FILE"
+CHUNK_LINKS="$("$PYTHON" - "$CHUNKS_DIR/manifest.json" <<'PY'
+import json
+import sys
+from pathlib import Path
+
+manifest = json.loads(Path(sys.argv[1]).read_text())
+links = []
+for item in manifest["files"]:
+    path = item["path"]
+    links.append(
+        "Chunk {first}-{last}: https://raw.githubusercontent.com/martyuk/telegram-radar/main/{path}".format(
+            first=item["first_post"],
+            last=item["last_post"],
+            path=path,
+        )
+    )
+print("\n".join(links))
+PY
+)"
+
+git add "$OUT_FILE" "$CHUNKS_DIR"
 if git diff --cached --quiet; then
   COMMIT_STATUS="без изменений в git"
 else
@@ -78,5 +106,6 @@ send_telegram "Telegram Radar: посты за ${DATE_VALUE} собраны.
 Без постов: ${MISSING_CHANNELS}
 Статус: ${COMMIT_STATUS}
 Raw: ${RAW_URL}
-GitHub: ${GITHUB_URL}"
-
+GitHub: ${GITHUB_URL}
+Manifest: ${MANIFEST_URL}
+${CHUNK_LINKS}"
