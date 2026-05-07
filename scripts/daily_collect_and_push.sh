@@ -49,11 +49,12 @@ cd "$PLUGIN_DIR"
   --timeout 300 \
   --out "$OUT_FILE"
 
+cd "$REPO_DIR"
 rm -rf "$CHUNKS_DIR"
-"$PYTHON" "$REPO_DIR/scripts/json_posts_to_md_chunks.py" "$OUT_FILE" \
+"$PYTHON" scripts/json_posts_to_md_chunks.py "out/corpus/${DATE_VALUE}.posts.json" \
   --max-chars 35000 \
   --timezone Europe/Moscow \
-  --out-dir "$CHUNKS_DIR" >/dev/null
+  --out-dir "out/corpus/${DATE_VALUE}.chunks" >/dev/null
 
 read -r POST_COUNT CHANNEL_COUNT MISSING_CHANNELS < <("$PYTHON" - "$OUT_FILE" "$CHANNELS_FILE" <<'PY'
 import json
@@ -70,7 +71,6 @@ print(len(rows), len(seen), missing)
 PY
 )
 
-cd "$REPO_DIR"
 CHUNK_LINKS="$("$PYTHON" - "$CHUNKS_DIR/manifest.json" <<'PY'
 import json
 import sys

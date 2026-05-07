@@ -1,29 +1,29 @@
 {
-  "source": "/Users/martyuk/Documents/telegram-radar/out/corpus/2026-05-07.posts.json",
-  "out_dir": "/Users/martyuk/Documents/telegram-radar/out/corpus/2026-05-07.chunks",
+  "source": "out/corpus/2026-05-07.posts.json",
+  "out_dir": "out/corpus/2026-05-07.chunks",
   "posts": 174,
   "chunks": 3,
   "max_chars": 35000,
   "timezone": "Europe/Moscow",
   "files": [
     {
-      "path": "/Users/martyuk/Documents/telegram-radar/out/corpus/2026-05-07.chunks/2026-05-07.part-01.md",
+      "path": "out/corpus/2026-05-07.chunks/2026-05-07.part-01.md",
       "posts": 77,
-      "chars": 34561,
+      "chars": 34521,
       "first_post": 1,
       "last_post": 77
     },
     {
-      "path": "/Users/martyuk/Documents/telegram-radar/out/corpus/2026-05-07.chunks/2026-05-07.part-02.md",
+      "path": "out/corpus/2026-05-07.chunks/2026-05-07.part-02.md",
       "posts": 56,
-      "chars": 34737,
+      "chars": 34697,
       "first_post": 78,
       "last_post": 133
     },
     {
-      "path": "/Users/martyuk/Documents/telegram-radar/out/corpus/2026-05-07.chunks/2026-05-07.part-03.md",
+      "path": "out/corpus/2026-05-07.chunks/2026-05-07.part-03.md",
       "posts": 41,
-      "chars": 17907,
+      "chars": 17867,
       "first_post": 134,
       "last_post": 174
     }
