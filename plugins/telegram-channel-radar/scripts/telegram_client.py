@@ -14,6 +14,7 @@ from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 
 @dataclass
@@ -217,15 +218,32 @@ async def status() -> None:
     print(json.dumps(payload, ensure_ascii=False, indent=2))
 
 
-async def fetch_posts(channels: list[str], limit: int, days: int | None) -> list[ChannelPost]:
+def parse_date_window(date_value: str | None, timezone_name: str) -> tuple[datetime | None, datetime | None]:
+    if not date_value:
+        return None, None
+    local_timezone = ZoneInfo(timezone_name)
+    local_start = datetime.strptime(date_value, "%Y-%m-%d").replace(tzinfo=local_timezone)
+    local_end = local_start + timedelta(days=1)
+    return local_start.astimezone(timezone.utc), local_end.astimezone(timezone.utc)
+
+
+async def fetch_posts(
+    channels: list[str],
+    limit: int,
+    days: int | None,
+    date_value: str | None,
+    timezone_name: str,
+) -> list[ChannelPost]:
     _, _, session_path = require_env()
     if not has_session_file(session_path):
         raise SystemExit("Telegram session is not authorized yet. Run: .venv/bin/python scripts/telegram_client.py auth")
 
     client = await build_client()
     _, FloodWaitError = import_telethon()
-    since = None
+    since, before = parse_date_window(date_value, timezone_name)
     if days is not None:
+        if date_value:
+            raise SystemExit("--days and --date cannot be used together")
         since = datetime.now(timezone.utc) - timedelta(days=days)
 
     output: list[ChannelPost] = []
@@ -236,8 +254,12 @@ async def fetch_posts(channels: list[str], limit: int, days: int | None) -> list
                 entity = await client.get_entity(channel)
                 title = getattr(entity, "title", channel)
                 username = getattr(entity, "username", None) or channel
-                async for message in client.iter_messages(entity, limit=limit):
+                async for message in client.iter_messages(entity, limit=limit, offset_date=before):
                     if since and message.date and message.date < since:
+                        if before:
+                            break
+                        continue
+                    if before and message.date and message.date >= before:
                         continue
                     text = message.message or ""
                     if not text.strip():
@@ -474,7 +496,7 @@ async def recommendations(args: argparse.Namespace) -> None:
 async def posts(args: argparse.Namespace) -> None:
     try:
         rows = await asyncio.wait_for(
-            fetch_posts(args.channels, args.limit, args.days),
+            fetch_posts(args.channels, args.limit, args.days, args.date, args.timezone),
             timeout=args.timeout,
         )
     except asyncio.TimeoutError as exc:
@@ -500,6 +522,8 @@ def parse_args() -> argparse.Namespace:
     posts_parser.add_argument("channels", nargs="+", help="@username or https://t.me/username")
     posts_parser.add_argument("--limit", type=int, default=50)
     posts_parser.add_argument("--days", type=int, default=None)
+    posts_parser.add_argument("--date", default=None, help="Fetch posts for one local calendar day, YYYY-MM-DD.")
+    posts_parser.add_argument("--timezone", default="Europe/Moscow", help="Timezone for --date.")
     posts_parser.add_argument("--out", default=None)
     posts_parser.add_argument("--timeout", type=int, default=30)
 

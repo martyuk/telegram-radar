@@ -1,6 +1,8 @@
 # Telegram Channel Radar
 
-Local Codex plugin for finding Telegram channels and collecting public posts.
+Local scripts for collecting public Telegram channel posts.
+
+The monitoring channel list lives in `../../config/monitoring-channels.txt`.
 
 ## Typical Prompts
 
@@ -27,7 +29,11 @@ Local Codex plugin for finding Telegram channels and collecting public posts.
 ## Local Commands
 
 ```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
 .venv/bin/python scripts/telegram_client.py status
+.venv/bin/python scripts/telegram_client.py posts $(tr '\n' ' ' < ../../config/monitoring-channels.txt) --limit 50 --days 1 --timeout 30 --out ../../out/corpus/$(date +%F).posts.json
+.venv/bin/python scripts/telegram_client.py posts $(tr '\n' ' ' < ../../config/monitoring-channels.txt) --limit 200 --date 2026-04-07 --timeout 120 --out ../../out/corpus/2026-04-07.posts.json
 .venv/bin/python scripts/telegram_client.py profile @petyaetoya --timeout 20
 .venv/bin/python scripts/telegram_client.py resolve @petyaetoya --timeout 20
 .venv/bin/python scripts/telegram_client.py recommendations @telegram --limit 10 --timeout 20
