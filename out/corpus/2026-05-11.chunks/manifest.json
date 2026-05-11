@@ -1,0 +1,24 @@
+{
+  "source": "out/corpus/2026-05-11.posts.json",
+  "out_dir": "out/corpus/2026-05-11.chunks",
+  "posts": 90,
+  "chunks": 2,
+  "max_chars": 35000,
+  "timezone": "Europe/Moscow",
+  "files": [
+    {
+      "path": "out/corpus/2026-05-11.chunks/2026-05-11.part-01.md",
+      "posts": 69,
+      "chars": 35153,
+      "first_post": 1,
+      "last_post": 69
+    },
+    {
+      "path": "out/corpus/2026-05-11.chunks/2026-05-11.part-02.md",
+      "posts": 21,
+      "chars": 7830,
+      "first_post": 70,
+      "last_post": 90
+    }
+  ]
+}
