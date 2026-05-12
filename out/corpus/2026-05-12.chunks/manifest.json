@@ -1,0 +1,31 @@
+{
+  "source": "out/corpus/2026-05-12.posts.json",
+  "out_dir": "out/corpus/2026-05-12.chunks",
+  "posts": 156,
+  "chunks": 3,
+  "max_chars": 35000,
+  "timezone": "Europe/Moscow",
+  "files": [
+    {
+      "path": "out/corpus/2026-05-12.chunks/2026-05-12.part-01.md",
+      "posts": 75,
+      "chars": 34508,
+      "first_post": 1,
+      "last_post": 75
+    },
+    {
+      "path": "out/corpus/2026-05-12.chunks/2026-05-12.part-02.md",
+      "posts": 59,
+      "chars": 35062,
+      "first_post": 76,
+      "last_post": 134
+    },
+    {
+      "path": "out/corpus/2026-05-12.chunks/2026-05-12.part-03.md",
+      "posts": 22,
+      "chars": 9058,
+      "first_post": 135,
+      "last_post": 156
+    }
+  ]
+}
